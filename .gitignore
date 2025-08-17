@@ -1,0 +1,5 @@
+.DS_Store
+bias_classifier_env/
+bias_classifier_model/
+bias_classifier_results/
+__pycache__/
